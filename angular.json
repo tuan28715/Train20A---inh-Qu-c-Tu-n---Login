@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fbapp"
+    }
+  },
+  "defaultProject": "fbapp",
+  "cli": {
+    "analytics": "b46cf0b5-04b3-44ac-812f-2c63c71814b7"
+  }
 }
